@@ -1,0 +1,16 @@
+body{
+  font-size:25px;
+  font-family: 'Libre Barcode 128 Text', cursive;
+  color: #000000;
+  background-color: #FFFFFF;
+  .info {
+    font-family: monospace;
+    position: absolute;
+    line-height: 20px;
+    font-size: 14px;
+    left: 20px;
+    top: 20px;
+  }
+h1,h2{
+  font-family:"Faster One"
+}
